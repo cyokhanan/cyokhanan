@@ -3,7 +3,7 @@
 </p>
 
 ### Hi 👋, I'm Cahya Kharisma Yokhanan
-**Informatics Engineering Student at UBAYA | Web Developer Intern | Trading Enthusiast**
+**Informatics Engineering Student at UBAYA | Web Developer Intern | Entrepreneur**
 
 ## 💫 About Me:
 - 💻 Intern at **PT Blackfish Code Squad Indonesia**.
@@ -17,7 +17,7 @@
 ## 🥇 Technical Skills:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nodejs,nextjs,vue,python,mysql,postgres,mssql,lua,cs,html,css,git" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nodejs,nextjs,vue,python,mysql,postgres,lua,cs,html,css,git" />
   </a>
 </p>
 
@@ -26,8 +26,8 @@
 ## 📊 GitHub Statistics:
 
 <p align="center">
-  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyokhanan&theme=github_dark" width="48.5%" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cyokhanan&theme=radical&hide_border=true" width="48.5%" />
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyokhanan&theme=github_dark" width="46%" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cyokhanan&theme=radical&hide_border=true" width="46%" />
 </p>
 
 <br clear="all" /> <br/>
@@ -41,7 +41,9 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyokhanan&theme=github_dark" width="100%" />
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
 ## ✍️ Random Dev Quote:
 <p align="center">
